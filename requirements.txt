@@ -1,0 +1,12 @@
+# Bronze Tier Personal AI Employee - Python Dependencies
+
+# File system monitoring
+watchdog>=4.0.0
+
+# Environment variable management
+python-dotenv>=1.0.0
+
+# Standard library (included with Python 3.13+)
+# pathlib - built-in
+# logging - built-in
+# datetime - built-in
